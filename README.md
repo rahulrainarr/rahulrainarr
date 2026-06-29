@@ -1,45 +1,55 @@
-# 🚀 My Learning Lab: Building, Experimenting & Solving
+# Rahul Raina
 
-Welcome to my personal code playground! This repository is a collection of small programs and experiments born from a simple philosophy: **the best way to learn is to build.** By experimenting in a local environment, I turn evolving technologies into practical skills and confidence.
+## Enterprise AI | Cloud & Cybersecurity Transformation | Data Center Modernization | Local-first GenAI & Governance Workbenches
 
-## 🛠 What's Inside?
+I build practical portfolio accelerators for enterprise AI adoption, cloud modernization, cybersecurity risk reduction, data-center transformation, and local-first GenAI governance. My projects focus on usable systems: AI readiness assessments, secure RAG patterns, governance workbenches, Windows-first productivity tools, and decision-support dashboards.
 
-This lab covers a mix of automation, finance, and cutting-edge AI:
+This GitHub profile is a personal portfolio unless a repository states otherwise. The work is intended to demonstrate hands-on architecture, implementation, documentation, and advisory thinking for enterprise technology leaders, consultants, and technical reviewers.
 
-- **🤖 Agentic AI & LLMs:** Exploring multi-agent systems using `crewAI` (see `AgentAI_CrewAI.ipynb` and `Job_Crew.py`).
-- **📈 FinTech & Analytics:** Predictive analysis for the Indian stock market and investment advisory tools.
-- **💡 Practical Automation:** Tools for Job Description (JD) searching and media sorting to streamline daily tasks.
-- **🧪 Experimental Scripts:** Fun explorations into astrology predictions and general Python automation (`news.py`).
+## Focus Areas
 
-## 🧠 Lessons from the Environment
+- Enterprise AI readiness, governance, trust, risk, and compliance
+- Local-first LLM, RAG, knowledge assistant, and agentic workflow tools
+- Cloud architecture, secure landing zones, GPU infrastructure, and data-center modernization
+- Cybersecurity, SOC/MDR thinking, privacy, and responsible AI controls
+- Practical consulting accelerators, dashboards, and automation workflows
 
-Technology is evolving faster than ever. Through these projects, I’ve gained deep insights into:
+## Featured Repositories
 
-* **Environment Orchestration:** Navigating the challenges of Python virtual environments, dependency management, and version conflicts.
-* **Deployment Realities:** Moving from a "it works on my machine" Jupyter Notebook to a functional Python script.
-* **Data Readiness:** Understanding that for AI and Stock models, the code is only as good as the data pipeline supporting it.
+| Repository | Why it matters |
+|---|---|
+| [enterprise-ai-governance-workbench](https://github.com/rahulrainarr/enterprise-ai-governance-workbench) | Local-first enterprise AI governance and knowledge workbench for secure RAG, trust scoring, model routing, and advisory reporting. |
+| [Enterprise-AI-Readiness-Framework](https://github.com/rahulrainarr/Enterprise-AI-Readiness-Framework) | AI maturity and readiness assessment covering data, infrastructure, cybersecurity posture, process, and adoption readiness. |
+| [Cloud-Ready-AI-Architecture](https://github.com/rahulrainarr/Cloud-Ready-AI-Architecture) | Reference area for secure cloud landing zones, GPU infrastructure, and AI-ready enterprise architecture diagrams. |
+| [openrouter-chatbox-windows](https://github.com/rahulrainarr/openrouter-chatbox-windows) | Windows desktop AI chat client with local API-key storage, model switching, attachments, installer, and uninstall support. |
+| [SecuredAI.github.io](https://github.com/rahulrainarr/SecuredAI.github.io) | Sovereign lakehouse RAG architecture notes using medallion design for private, auditable AI systems. |
+| [brightvoice-aac](https://github.com/rahulrainarr/brightvoice-aac) | Offline Windows and Android AAC communication support app showing local-first product delivery and privacy-aware design. |
 
-## 🚀 Getting Started
+## Portfolio Categories
 
-To try these out in your own environment:
+- Private enterprise AI and knowledge workbenches
+- AI governance, trust, risk, and compliance
+- Local LLM, RAG, and agentic AI tools
+- Cloud, infrastructure, and data-center modernization
+- Cybersecurity and risk automation
+- Data analytics, forecasting, and decision support
+- Productivity, workflow automation, and learning demos
 
-1.  **Clone the repo:**
-    ```bash
-    git clone [https://github.com/rahulrainarr/mycode.git](https://github.com/rahulrainarr/mycode.git)
-    ```
-2.  **Set up your environment:**
-    I recommend using `venv` or `conda` to isolate these experiments.
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-3.  **Explore:**
-    Start with the `.ipynb` files in VS Code or Jupyter Lab to see the step-by-step logic.
+## Selected Technical Themes
 
-## 🌱 Future Roadmap
-* Deepening implementation of **Agentic AI** for enterprise use cases.
-* Enhancing data modernization techniques for better model accuracy.
-* Refining deployment workflows for local LLM pipelines.
+`enterprise-ai` `generative-ai` `rag` `local-llm` `ai-governance` `llmops` `cybersecurity` `cloud-computing` `data-center` `python` `streamlit` `fastapi` `ollama` `langchain` `automation` `consulting`
 
----
-**Happy learning and experimenting!** *Remember: Every bug fixed is a skill earned.*# mycode
+## Portfolio Planning
+
+- [Portfolio Index](PORTFOLIO_INDEX.md)
+- [GitHub Portfolio Audit](GITHUB_PORTFOLIO_AUDIT.md)
+
+## Contact
+
+- GitHub: [rahulrainarr](https://github.com/rahulrainarr)
+- LinkedIn: Add LinkedIn profile link
+- Email / website: Add preferred contact link
+
+## Disclaimer
+
+Projects in this account are personal portfolio, learning, or experimental work unless a repository explicitly states otherwise. Review security, privacy, licensing, and deployment assumptions before using any project in a production or enterprise environment.
