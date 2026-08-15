@@ -57,9 +57,7 @@ These tools are designed for support and engagement. They are not medical device
 
 ## Explore the Portfolio
 
-- [Portfolio index](PORTFOLIO_INDEX.md)
-- [GitHub portfolio audit](GITHUB_PORTFOLIO_AUDIT.md)
-- [All repositories](https://github.com/rahulrainarr?tab=repositories)
+- [View all repositories](https://github.com/rahulrainarr?tab=repositories)
 
 ## Connect
 
